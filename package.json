@@ -56,5 +56,14 @@
   },
   "dependencies": {
     "svg2img": "^0.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anarmawala/vite-plugin-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/anarmawala/vite-plugin-icons/issues",
+    "email": "arshadn00@gmail.com"
+  },
+  "homepage": "https://github.com/anarmawala/vite-plugin-icons#readme"
 }
